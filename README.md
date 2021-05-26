@@ -8,3 +8,5 @@
 `git switch <NAME>` switch to branch
 `git switch -c <NAME>`: create and switch to new branch
 `git fetch --prune`: prune other branches
+`git stash`: save temp progress
+`git stash apply` :reapply stash progress
