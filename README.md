@@ -4,3 +4,4 @@
 `git branch <name>: create branch`
 `get branch -a`: list all branches
 `git switch <NAME>` switch to branch
+`git switch -c <NAME>`: create and switch to new branch
