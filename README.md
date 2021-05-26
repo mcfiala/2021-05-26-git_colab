@@ -7,13 +7,9 @@
 `get branch -a`: list all branches
 `git switch <NAME>` switch to branch
 `git switch -c <NAME>`: create and switch to new branch
-<<<<<<< HEAD
 `git log --oneline --graph --all`
 `git reflog`
 `git fetch --prune`: prune git history
 `git rebase main`: refreshes current branch with main. code allows you to choose from changes. 
-=======
-`git fetch --prune`: prune other branches
 `git stash`: save temp progress
 `git stash apply` :reapply stash progress
->>>>>>> 990a237 (feature 2 commit)
